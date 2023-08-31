@@ -4,7 +4,7 @@ body {
   }
   
   .secao-topo {
-    background-image: url("/web-efeitoParallax/imagens/imagens/capa.jpg");
+    background-image: url("/imagens/imagens/capa.jpg");
     background-attachment: fixed;
     min-height: 600px;
     text-align: center;
@@ -38,7 +38,7 @@ body {
   }
   
   .secao-divulgacao {
-    background-image: url("/web-efeitoParallax/imagens/imagens/img1.jpg");
+    background-image: url("/imagens/imagens/img1.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 200px;
