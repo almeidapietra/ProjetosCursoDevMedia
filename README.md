@@ -9,4 +9,6 @@ Este é um repositório dos projetos desenvolvidos no curso Front-End do DevMedi
 -> Pasta Js contém alguns códigos feitos como exercício dos módulos:
   - Arquivo: fraseDoDia.js : Consiste em um array com diversas frases do dia. Cada frase servirá para um dia do mês e a frase impressa será correspondente ao dia em que a aplicação for executada.
 
+  - Arquivo: cursos_idiomas.js: O programa percorre um array de cursos de idiomas para obter e imprimir os dados e calcular o valor da hora de cada curso. Após isso, é exibida uma mensagem de acordo com o valor da hora do curso.
+
   
