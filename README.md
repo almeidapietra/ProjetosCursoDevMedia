@@ -17,4 +17,8 @@ Este é um repositório dos projetos desenvolvidos no curso Front-End do DevMedi
 
   - Arquivo chuvaDeMeteoros.js: Exercício de manipulação de strings utilizando os métodos nativos: split, padEnd, toUpperCase e replace.
     Consiste em um programa com dados sobre chuvas de meteoros que realiza manipulação das informações para exibi-las no terminal,deixando-as mais amigáveis para o usuário final.  Para imprimir as informações de cada chuva de meteoro, foi necessário: Iterar a lista que contém as chuvas de meteoros, Obter as informações de cada chuva à cada iteração e Formatar as informações. 
-  
+
+  - Arquivo timestamp_pratica.js: Exercício para praticar timestamp, funcionamento: pega o timestamp das datas, verifica a diferença em milissegundos, converte em horas, imprime a diferença.
+
+  - Arquivo tempo_ausente.js: O código manipula o objeto Date, para verificar quanto tempo o usuário ficou sem acessar o programa. Ao final, imprime uma mensagem para o usuário baseado em duas verificações: O horário atual para saber se é dia, tarde ou noite. Quanto tempo se passou desde o último acesso.
+    
