@@ -14,4 +14,7 @@ Este é um repositório dos projetos desenvolvidos no curso Front-End do DevMedi
   - Arquivo stackDeProgramacao.js: Utiliza switch e template string: O código funciona da seguinte forma: para as stacks com os valores back-end, front-end ou mobile, imprimimos uma frase que será concatenada com o valor das variáveis stack e linguagem. Se não for nenhuma dessas stacks imprimimos um texto concatenado com o valor da variável stack.
 
   - Arquivo bloquearPalavraInadequada.js: Utiliza o método indexOf para verificar se palavras inadequadas estão dentro de um texto, utiliza if...else com o resultado da verificação para imprimir mensagem de  bloqueio da inserção do texto (caso haja palavras inadequadas) ou, caso contrário: mensagem de aprovação do comentário.
+
+  - Arquivo chuvaDeMeteoros.js: Exercício de manipulação de strings utilizando os métodos nativos: split, padEnd, toUpperCase e replace.
+    Consiste em um programa com dados sobre chuvas de meteoros que realiza manipulação das informações para exibi-las no terminal,deixando-as mais amigáveis para o usuário final.  Para imprimir as informações de cada chuva de meteoro, foi necessário: Iterar a lista que contém as chuvas de meteoros, Obter as informações de cada chuva à cada iteração e Formatar as informações. 
   
